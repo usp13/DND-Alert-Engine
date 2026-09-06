@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+Imported_UI/
 
 # debug
 npm-debug.log*
