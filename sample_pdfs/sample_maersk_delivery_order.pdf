@@ -1,0 +1,91 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 595 842]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 <<
+        /Type /Font
+        /Subtype /Type1
+        /BaseFont /Helvetica-Bold
+      >>
+    >>
+  >>
+>>
+endobj
+4 0 obj
+<<
+  /Length 1137
+>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(MAERSK LINE - DELIVERY ORDER & CONTAINER ADVICE) Tj
+/F1 10 Tf
+0 -25 Td
+(--------------------------------------------------------------------------------) Tj
+0 -20 Td
+(Document Type: Electronic Delivery Order \(e-DO\)) Tj
+0 -18 Td
+(Shipping Line: MAERSK \(Line Code: MAEU\)) Tj
+0 -18 Td
+(Vessel / Voyage: MAERSK MC-KINNEY MOLLER / V-2408W) Tj
+0 -18 Td
+(Port of Discharge: Mundra Port \(INMUN1\)) Tj
+0 -18 Td
+(Discharge Date / ETA: 2026-09-02) Tj
+0 -18 Td
+(Free Time Allowed: 14 Days Demurrage Free Time) Tj
+0 -18 Td
+(Bill of Lading \(BL\) No: MAEU928471928) Tj
+0 -18 Td
+(Consignee: Riddhi Siddhi Logistics Pvt Ltd) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(CONTAINER LIST & DETAILS:) Tj
+0 -18 Td
+(1. Container: MSKU7284910 | Size: 40ft High Cube | Free Days: 14 | Discharge Date: 2026-09-02) Tj
+0 -18 Td
+(2. Container: MAEU8391024 | Size: 20ft Standard  | Free Days: 14 | Discharge Date: 2026-09-02) Tj
+0 -18 Td
+(3. Container: MSKU1928374 | Size: 40ft High Cube | Free Days: 14 | Discharge Date: 2026-09-02) Tj
+0 -18 Td
+() Tj
+0 -18 Td
+(Notice: Ensure empty containers are returned to designated depot within 14 free days.) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000056 00000 n 
+0000000111 00000 n 
+0000000282 00000 n 
+trailer
+<<
+  /Size 5
+  /Root 1 0 R
+>>
+startxref
+1487
+%%EOF

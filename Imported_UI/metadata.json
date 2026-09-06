@@ -1,0 +1,6 @@
+{
+  "name": "MAPS D&D Alert Engine",
+  "description": "Container detention and demurrage tracking dashboard for freight forwarders",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
